@@ -190,6 +190,3 @@ def main():
     st.markdown("---")
     st.caption("👨‍💼 AOCC Operator Dashboard | Last updated: " + 
               datetime.now().strftime("%H:%M:%S IST"))
-
-if name == "main":
-    main()
