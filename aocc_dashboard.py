@@ -193,4 +193,3 @@ def main():
 
 if name == "main":
     main()
-                severity_color = {"Low": "green", "Medium": "orange", "High": "red"}
