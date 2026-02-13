@@ -1,5 +1,5 @@
-streamlit==1.36.0
-mysql-connector-python==9.0.0
-pandas==2.2.2
-plotly==5.22.0
-streamlit-aggrid==1.1.2
+streamlit
+mysql-connector-python
+pandas
+plotly
+streamlit-aggrid
